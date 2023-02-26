@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Software Development Engineer
-- 📄 [my blog](https://alex-blog-site.vercel.app/)
