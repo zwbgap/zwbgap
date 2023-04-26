@@ -6,11 +6,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: light)"
-    srcSet="https://xlog-card.vercel.app/api/diygod?theme=light"
+    srcSet="https://xlog-card.vercel.app/api/Alex-Programer?theme=light"
   />
   <source
     media="(prefers-color-scheme: dark)"
-    srcSet="https://xlog-card.vercel.app/api/diygod?theme=dark"
+    srcSet="https://xlog-card.vercel.app/api/Alex-Programer?theme=dark"
   />
-  <img src="https://xlog-card.vercel.app/api/diygod?theme=light" alt="" />
+  <img src="https://xlog-card.vercel.app/api/Alex-Programer?theme=light" alt="" />
 </picture>
